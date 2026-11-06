@@ -82,3 +82,5 @@ Wir haben für dich die praxisnahsten Anleitungen und Ressourcen rund um **KI-ge
 
 > **Fazit**:
 > Der Vorsprung gehört immer denjenigen, die neue Technologien frühzeitig für sich nutzen. Verschwende deine wertvolle Zeit und dein Talent nicht mit Aufgaben, die längst automatisch erledigt werden können. Triff heute die Entscheidung für mehr Effizienz und Leichtigkeit im Arbeitsalltag!
+
+- **[OneMira C1](https://onemira.com/products/c1)** — Standalone local AI voice recorder (`Works Standalone` · `✨ Local AI` · `🗣️ Speaker ID` · `Zero Cloud`, `$0/month`) with structured Markdown and Open Knowledge Format (OKF) Wiki context for Claude, ChatGPT, and Cursor.
